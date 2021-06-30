@@ -12,4 +12,9 @@ Abaixo é apresentada a descrição dos campos análisados:
 
 * **Nome** : deve receber o nome e o sobrenome, ambos não vazios, separados por um espaç o; não
 deve aceitar caracteres especiais ou numéricos; o primeiro símbolo do nome e do sobrenome
-deve ser do alfabeto Γ, e os outros símbolos devem ser do alfabeto <img src="https://render.githubusercontent.com/render/math?math=\sum">.
+deve ser do alfabeto <img src="https://render.githubusercontent.com/render/math?math=\Gamma">, e os outros símbolos devem ser do alfabeto <img src="https://render.githubusercontent.com/render/math?math=\sum">.
+
+* **E mail** : as sentenças possuem símbolos de <img src="https://render.githubusercontent.com/render/math?math=\sum"> e deve conter exatamente um símbolo “@”; não
+devem começar com o símbolo “@”; devem terminar com a sequência “.br”; devem ter, pelo
+menos, um símbolo de <img src="https://render.githubusercontent.com/render/math?math=\sum"> entre o símbolo “@” e o “.br”
+◦ Ex.
