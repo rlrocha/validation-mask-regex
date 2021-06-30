@@ -6,6 +6,4 @@ O trabalho consiste em densenvolver máscaras de validação, através de expres
 
 ## Descrição
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">`
