@@ -6,16 +6,6 @@ O trabalho consiste em densenvolver máscaras de validação, através de expres
 
 ## Descrição
 
-\begin{equation*}
-\lambda = c\, / \, f
-\end{equation*}
-
-\begin{equation*}
-\mathbf{\lambda} \,: \,comprimento\, de\, onda \\
-c \,: \,velocidade \,da \,luz \\
-f \,: \,frequência
-\end{equation*}
-
-\\[ a^2 = b^2 + c^2 \\]
-
-$\sum=\lbrace a, b, c, ..., z\rbrace$, $\Gamma=\lbrace A, B, C, ..., Z\rbrace$ e $N=\lbrace 0, 1, 2, ..., 9\rbrace$.
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
