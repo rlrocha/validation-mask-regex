@@ -6,4 +6,6 @@ O trabalho consiste em densenvolver máscaras de validação, através de expres
 
 ## Descrição
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">`
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+<img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace1">
