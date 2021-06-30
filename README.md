@@ -6,4 +6,6 @@ O trabalho consiste em densenvolver máscaras de validação, através de expres
 
 ## Descrição
 
+\\[ a^2 = b^2 + c^2 \\]
+
 $\sum=\lbrace a, b, c, ..., z\rbrace$, $\Gamma=\lbrace A, B, C, ..., Z\rbrace$ e $N=\lbrace 0, 1, 2, ..., 9\rbrace$.
