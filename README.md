@@ -16,5 +16,8 @@ deve ser do alfabeto <img src="https://render.githubusercontent.com/render/math?
 
 * **E mail** : as sentenças possuem símbolos de <img src="https://render.githubusercontent.com/render/math?math=\sum"> e deve conter exatamente um símbolo “@”; não
 devem começar com o símbolo “@”; devem terminar com a sequência “.br”; devem ter, pelo
-menos, um símbolo de <img src="https://render.githubusercontent.com/render/math?math=\sum"> entre o símbolo “@” e o “.br”
-◦ Ex.
+menos, um símbolo de <img src="https://render.githubusercontent.com/render/math?math=\sum"> entre o símbolo “@” e o “.br”.
+
+* **Senha** : as cadeias podem conter símbolos dos alfabetos <img src="https://render.githubusercontent.com/render/math?math=\sum">, <img src="https://render.githubusercontent.com/render/math?math=\Gamma"> e <img src="https://render.githubusercontent.com/render/math?math=N">; devem, obrigatoriamente,
+ter pelo menos um símbolo do alfabeto Γ e um símbolo do alfabeto N; devem ter comprimento
+igual a 8.
