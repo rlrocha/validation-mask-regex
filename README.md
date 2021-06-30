@@ -8,6 +8,8 @@ O trabalho consiste em densenvolver máscaras de validação, através de expres
 
 Neste trabalho foram desenvolvidas máscaras de validação através de expressões regulares para os campos nome, e-mail, senha, cpf, e telefone. Para a construção das máscaras considera-se os seguintes alfabetos <img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace">, <img src="https://render.githubusercontent.com/render/math?math=\Gamma=\lbrace A, B, C, ..., Z\rbrace"> e <img src="https://render.githubusercontent.com/render/math?math=N=\lbrace 0, 1, 2, ..., 9\rbrace">.
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+Abaixo é apresentada a descrição dos campos análisados:
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum=\lbrace a, b, c, ..., z\rbrace">
+* **Nome** : deve receber o nome e o sobrenome, ambos não vazios, separados por um espaç o; não
+deve aceitar caracteres especiais ou numéricos; o primeiro símbolo do nome e do sobrenome
+deve ser do alfabeto Γ, e os outros símbolos devem ser do alfabeto <img src="https://render.githubusercontent.com/render/math?math=\sum">.
