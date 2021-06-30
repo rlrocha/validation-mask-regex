@@ -21,3 +21,8 @@ menos, um símbolo de <img src="https://render.githubusercontent.com/render/math
 * **Senha** : as cadeias podem conter símbolos dos alfabetos <img src="https://render.githubusercontent.com/render/math?math=\sum">, <img src="https://render.githubusercontent.com/render/math?math=\Gamma"> e <img src="https://render.githubusercontent.com/render/math?math=N">; devem, obrigatoriamente,
 ter pelo menos um símbolo do alfabeto Γ e um símbolo do alfabeto N; devem ter comprimento
 igual a 8.
+
+* **CPF** : as cadeias devem ter o formato xxx.xxx.xxx xx , onde x <img src="https://render.githubusercontent.com/render/math?math=\epsilon"> <img src="https://render.githubusercontent.com/render/math?math=N">.
+
+* **Telefone** : as cadeias devem ter o formato (xx) 9xxxx-xxxx ou (xx) 9xxxxxxxx ou xx 9xxxxxxxx
+onde x <img src="https://render.githubusercontent.com/render/math?math=\epsilon"> <img src="https://render.githubusercontent.com/render/math?math=N">.
